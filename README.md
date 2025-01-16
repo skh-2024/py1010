@@ -1,10 +1,16 @@
 # PY1010: Introduksjon til programmering
 
-Dette repositoriet inneholder arbeidskrav og løsninger relatert til emnet PY1010: Introduksjon til programmering ved Universitet i Sørøst-Norge.
+Dette repositoriet inneholder løsninger til arbeidskrav i emnet PY1010: Introduksjon til programmering ved Universitet i Sørøst-Norge.
 
 ## Innhold
-- **Arbeidskrav 1**: Formålet med oppgaven er å komme i gang med praktisk programmering ved å lage et Python-program som sammenligner årlige totalkostnader mellom elbil og bensinbil. Programmet beregner totale årlige kostnader for elbil og bensinbil, og den årlige kostnadsdifferansen mellom de to alternativene.
-- **Arbeidskrav 2**: 
+- **Arbeidskrav 1**: Sammenligning av årlige kostnader mellom elbil og bensinbil.
+- **Arbeidskrav 2**: Består av 6 programmeringsoppgaver som inkluderer:
+- Beregning av alder basert på fødselsår.
+- Planlegging av pizzakjøp til klassefest.
+- Konvertering av grader til radianer.
+- Bruk og oppdatering av en dictionary med informasjon om land, hovedsteder og innbyggertall.
+- Beregning av areal og ytre omkrets for en geometrisk figur.
+- Plotting av en matematisk funksjon.
 
 
 
