@@ -1,6 +1,6 @@
 # Prosjektoppgave – PY1010
 
-Dette er prosjektoppgaven levert som en del av kurset **PY1010: Grunnleggende programmering**.
+Dette er prosjektoppgaven levert som en del av kurset **PY1010: Grunnleggende programmering med Python**.
 
 Del A: Leser inn Excel-filen og lagrer relevante kolonner som arrays for videre analyse.
 
