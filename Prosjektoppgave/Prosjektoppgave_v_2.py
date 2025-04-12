@@ -10,9 +10,16 @@ Created on Sun Mar 23 17:56:24 2025
 
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
+
+# Finn sti til mappen der denne .py-filen ligger
+mappe = os.path.dirname(__file__)
+
+# Lag full sti til Excel-filen
+datafil = os.path.join(mappe, "support_uke_24.xlsx")
 
 # Leser inn Excel-filen
-data = pd.read_excel("support_uke_24.xlsx")
+data = pd.read_excel(datafil)
 
 # Hver kolonne leses inn og lagres i en egen array for videre analyse
 u_dag = data['Ukedag'].values
